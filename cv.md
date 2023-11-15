@@ -1,7 +1,7 @@
 # **ANNA BEZUHLA**
 
 ## Contact information
-Mail: <bezuglaya.am@gmail.com></br>
+Mail: <bezuglaya.am@gmail.com>
 Phone: +49 176 57843953
 
 ## About myself
@@ -11,7 +11,7 @@ As a frontend developer and former graphic designer, I have a unique blend of sk
 
 ### Frontend Software Engineer (Part-time)
 05/2022 – Present</br>
-[Bits & Likes](https://www.bitsandlikes.de/) </br>
+[Bits & Likes](https://www.bitsandlikes.de/) 
 *Dortmund, Germany* </br>
 * Creating different components from simple to complex (multi-level nesting / various animations)
 * Decomposed and refactored existing components into smaller ones
