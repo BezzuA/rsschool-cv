@@ -31,3 +31,16 @@ National University «Zaporizhzhia polytechnic»
 09/2017 – 06/2021  
 National University «Zaporizhzhia Polytechnic  
 *Zaporizhzhia, Ukraine*
+
+## Skills
+
+**Skills**: 
+* Adobe Creative Suite
+* Java, JavaScript
+* Git
+* Blender    
+
+**Languages**:
+* English - B2
+* Russian - Native
+* Ukrainian - Native
