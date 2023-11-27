@@ -1,0 +1,93 @@
+@import url("vars.css");
+
+body{
+    background-color: var(--background-body);
+    scroll-behavior: smooth;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+h2{
+    font: var(--desktop-heading-heading-2);
+    & span{
+        color: var(--text-accent);
+        font-style: italic;
+    }
+}
+#text_title{
+    color: var(--text-light);
+    font: var(--desktop-heading-heading-1);
+    & span{
+        color: var(--text-accent);
+        font: var(--desktop-heading-heading-1-accent);
+    }
+}
+.header-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between; 
+    & a{
+        color: var(--text-dark);
+        font: var(--desktop-action-link-button );
+    }
+  }
+.nav_center {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    align-items: center;
+    justify-content: center;
+    align-self: stretch;
+    flex: 1;
+    position: relative;
+    & a{
+       font: var(--desktop-action-link-button);
+    }
+    
+  }
+  .nav_right{
+    justify-content: center;
+    align-items: center;
+  }
+
+  .hero {
+    & .container {
+        display: flex;
+        background:  center / cover no-repeat url(images/photos/cappuchinno_creating.jpg);
+        background-color: black;
+        border-radius: 40px;
+        padding: 100px; 
+      }
+      & .offer {
+        display: flex;
+        flex-direction: column;
+        flex-basis: 50em;
+        gap: 40px;
+  }
+    
+}
+  .text_description{
+    color: var(--text-light);
+    font: var(--desktop-body-medium);
+    text-align: left;
+    position: relative;
+    align-self: stretch;
+  }
+  .button-primary {
+    background: var(--background-body);
+    border-radius: 100px;
+    & .menu_text{
+        color: var(--text-dark);
+        font: var(--desktop-action-link-button);
+        text-align: center;
+      }
+  }
+
+  .about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    align-self: stretch;
+  }
+  
