@@ -50,10 +50,10 @@ h2{
     align-items: center;
   }
 
-  .hero {
+.hero {
     & .container {
         display: flex;
-        background:  center / cover no-repeat url(images/photos/cappuchinno_creating.jpg);
+        background:  center / cover no-repeat url(images/cappuchinno_creating.jpg);
         background-color: black;
         border-radius: 40px;
         padding: 100px; 
