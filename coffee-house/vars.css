@@ -1,0 +1,31 @@
+:root{
+    --text-dark: #403f3d;
+    --text-light: #e1d4c9;
+    --text-accent: #b0907a;
+    --background-body: #e1d4c9;
+    --background-container: #665f55;
+    --background-backdrop: rgba(64, 63, 61, 0.8);
+    --border-light: #c1b6ad;
+    --border-dark: #665f55;
+  
+    /* Fonts */
+    --desktop-heading-heading-1: 600 72px/105% "Inter-SemiBold", sans-serif;
+    --desktop-heading-heading-1-accent: 600 italic 72px/105%
+        "Inter-SemiBoldItalic",
+      sans-serif;
+    --desktop-heading-heading-2: 600 60px/125% "Inter-SemiBold", sans-serif;
+    --desktop-heading-heading-2-accent: 600 italic 60px/125%
+        "Inter-SemiBoldItalic",
+      sans-serif;
+    --desktop-heading-heading-3: 600 24px/125% "Inter-SemiBold", sans-serif;
+    --desktop-body-medium: 400 16px/150% "Inter-Regular", sans-serif;
+    --desktop-body-caption: 600 10px/140% "Inter-SemiBold", sans-serif;
+    --desktop-action-link-button: 600 16px/150% "Inter-SemiBold", sans-serif;
+    --desktop-action-burger-link: 600 32px/125% "Inter-SemiBold", sans-serif;
+    --mobile-heading-heading-1: 600 42px/115% "Inter-SemiBold", sans-serif;
+    --mobile-heading-heading-1-accent: 600 italic 42px/115% "Inter-SemiBoldItalic",
+      sans-serif;
+    --mobile-heading-heading-2: 600 32px/125% "Inter-SemiBold", sans-serif;
+    --mobile-heading-heading-2-accent: 600 italic 32px/125% "Inter-SemiBoldItalic",
+      sans-serif;
+}
