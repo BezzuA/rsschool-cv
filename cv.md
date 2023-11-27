@@ -44,3 +44,18 @@ National University «Zaporizhzhia Polytechnic
 * English - B2
 * Russian - Native
 * Ukrainian - Native
+
+## Code example
+**Missing Number from Leetcode:** Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array
+
+    function missingNumber(nums: number[]): number {
+    let fullArray = [];
+    for(let i=0; i < nums.length; i++){
+        fullArray[nums[i]] =-1;
+    }
+     for(let i=0; i < fullArray.length + 1; i++){
+         if(fullArray[i] != -1){
+             return i;
+         }
+     }
+    };
